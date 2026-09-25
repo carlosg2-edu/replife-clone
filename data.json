@@ -1,0 +1,49 @@
+{
+    "generos": [
+        "Hip-Hop",
+        "Dance",
+        "Pop",
+        "House",
+        "Trap",
+        "Jazz"
+    ],
+
+    "canciones":
+    [
+        {
+            "nombre": "Starboy (Remix)",
+            "artista": "The Weeknd",
+            "album": "Starboy (the remixes)",
+            "genero": "Dance",
+            "portada": "https://i.discogs.com/RHnjjaO97GV4JqEdLVSLdBj6i5LetVLyZCrsg-Odi00/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk0MTQ3/NzEtMTY0NzI4NjE4/Ny02NDc4LmpwZWc.jpeg"
+        },
+        {
+            "nombre": "Stay",
+            "artista": "Alfonzo Jones",
+            "album": "Alfonzo",
+            "genero": "Dance",
+            "portada": ""
+        },
+        {
+            "nombre": "Starboy (Remix)",
+            "artista": "The Weeknd",
+            "album": "Starboy (the remixes)",
+            "genero": "Dance",
+            "portada": ""
+        },
+        {
+            "nombre": "Starboy (Remix)",
+            "artista": "The Weeknd",
+            "album": "Starboy (the remixes)",
+            "genero": "Dance",
+            "portada": ""
+        },
+        {
+            "nombre": "Starboy (Remix)",
+            "artista": "The Weeknd",
+            "album": "Starboy (the remixes)",
+            "genero": "Dance",
+            "portada": ""
+        }
+    ]
+}
