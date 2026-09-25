@@ -6,8 +6,6 @@ import * as datos from './data.json';
 
 export default function Search(){
     return(
-        
-        
         <View>
 
         </View>
