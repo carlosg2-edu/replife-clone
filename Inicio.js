@@ -4,7 +4,7 @@ import Favoritos from './Favoritos';
 import Search from './Buscar';
 
 const FavoritesRoute = () => <Favoritos/>;
-const SearchRoute = () => <Text>Buscar</Text>;
+const SearchRoute = () => <Search/>;
 const LibraryRoute = () => <Text>Librería</Text>;
 const ProfileRoute = () => <Text>Perfil</Text>;
 

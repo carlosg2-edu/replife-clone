@@ -17,7 +17,7 @@ export default function Favoritos() {
 
             }}>
                 <View style={{
-                    flex: .9,
+                    flex: .30,
                     alignItems: 'left',
                     flexDirection:'row',
                     }}>
