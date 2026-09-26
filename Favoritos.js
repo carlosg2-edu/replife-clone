@@ -67,7 +67,7 @@ export default function Favoritos() {
                     padding: 5,
                 }}>
                     {
-                        Canciones.map((cancion,index) =>(
+                        Canciones.map((cancion) =>(
                             <View>
                                 <Card>
                                     <Card.Content>
