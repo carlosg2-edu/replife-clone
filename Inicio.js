@@ -2,10 +2,11 @@ import {useState} from 'react';
 import {Text,BottomNavigation} from 'react-native-paper';
 import Favoritos from './Favoritos';
 import Search from './Buscar';
+import Biblioteca from './Biblioteca';
 
 const FavoritesRoute = () => <Favoritos/>;
 const SearchRoute = () => <Search/>;
-const LibraryRoute = () => <Text>Librería</Text>;
+const LibraryRoute = () => <Biblioteca/>;
 const ProfileRoute = () => <Text>Perfil</Text>;
 
 
